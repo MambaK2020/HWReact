@@ -57,9 +57,9 @@ function App() {
 
       {orders.map((order)=> (
       <OrderStatus
-      key={orders.orderId}
-      orderId={orders.orderId}
-      status={orders.status}  
+      key={order.orderId}
+      orderId={order.orderId}
+      status={order.status}  
       />
       ))}
      
