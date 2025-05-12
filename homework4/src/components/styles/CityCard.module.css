@@ -1,0 +1,30 @@
+.card{
+
+  
+  text-align: center;
+  background-color: rgb(87, 208, 87);
+  padding: 20px;
+  width: 95%;
+  margin: 20px auto;
+  border: 2px solid #4CAF50;
+  height: 100vh;
+
+
+}
+
+
+.img{
+
+width: 400px;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px 0;
+
+}
+
+.description{
+
+  text-align: justify;
+  margin-bottom: 20px;
+  font-size: 16px;
+}

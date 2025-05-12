@@ -1,0 +1,51 @@
+.main{
+
+  background-color: rgb(87, 208, 87);
+  padding: 30px;
+  border-radius: 20px;
+  border: 2px solid #4CAF50;
+  text-align: center;
+  width: 95%;
+  border-radius: 15px;
+ 
+  
+
+  
+}
+
+.title{
+
+display: flex;
+justify-content: center;
+margin-bottom: 15px;
+margin-top: 20px;
+padding-top: 10px;
+
+
+}
+
+.form{
+
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+}
+
+.select{
+
+  width: 160px;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: rgb(233, 223, 223);
+  padding-left: 45px;
+  border: none;
+
+}
+
+select:hover{
+
+  background-color: aqua;
+  transition: all;
+}
