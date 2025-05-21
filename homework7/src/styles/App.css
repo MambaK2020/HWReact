@@ -1,0 +1,49 @@
+body{
+
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+
+    text-align: center;
+}
+
+.container{
+
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 15px;
+    
+
+}
+
+button{
+
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    background-color: beige;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+button:hover{
+
+    background-color: rgb(149, 206, 25);
+}
+
+p{
+
+    font-size: 20px;
+    text-align: center;
+}
+.title{
+
+    font-size: 40px;
+    color:rgb(72, 46, 150)
+}
